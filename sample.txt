@@ -12,5 +12,8 @@ pull リモートトポロジの内容を取得する
 
 issue Branch でここだけみえるのかしら
 
+# Issue 2
+commit インデックスの状態を記録する
 #Issue 3
 pull リモートリポジトリの内容を取得する
+
