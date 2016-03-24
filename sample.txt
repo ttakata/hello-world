@@ -3,4 +3,6 @@ sample file
 Close 02 で編集中。
 日本語もいけるんだね。
 
-Test TEst
+ここから競合となる。
+user02 変更中。
+pull リモートトポロジの内容を取得する
