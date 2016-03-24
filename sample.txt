@@ -1,2 +1,6 @@
 sample file
 # これはテストです。
+Close 02 で編集中。
+日本語もいけるんだね。
+
+Test TEst
